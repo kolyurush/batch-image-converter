@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Виртуальное окружение
+venv/
+.venv/
+
+# Среды разработки
+.idea/
+.vscode/
+
+# Результаты тестов
+.pytest_cache/
